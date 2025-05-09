@@ -2,8 +2,8 @@
   "Configurations": [
     {
       "Board": "ESP32_DEV",
-      "Version": "2.3",
-      "URL": "https://nevonatech.github.io/OTA/sensor-fw-2.3.ino.bin"
+      "Version": "2.5",
+      "URL": "https://nevonatech.github.io/OTA/sensor-fw-2.5.ino.bin"
     }
   ]
 }
