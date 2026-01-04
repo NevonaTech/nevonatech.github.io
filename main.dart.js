@@ -60672,7 +60672,7 @@ s=this.d
 r=s.f
 if(A.bI(p,null,t.w).w.a.a<800){p=B.b.gbt(r).Q
 p.toString
-q=p-150}else{p=B.b.gbt(r).Q
+q=p+150}else{p=B.b.gbt(r).Q
 p.toString
 q=p}s.fX(q,B.fi,B.yD)},
 U(a){var s,r=null,q=t.E
@@ -60711,7 +60711,7 @@ q=A.cE("COMING SOON",A.ic().$4$color$fontSize$fontWeight$height(B.bS,q,B.a8,1.2)
 p=A.hU(h,c?20:30,h)
 if(c)o=1/0
 else o=b?600:700
-o=A.hU(A.cE("Soon, you'll be able to order a starter kit and begin your journey to happier, healthier houseplants. We're launching first in Georgia USA.",A.e5().$4$color$fontSize$fontWeight$height(B.cu,c?16:18,B.p,1.6),B.a2),h,o)
+o=A.hU(A.cE("Soon, you'll be able to order a starter kit and begin your journey to happier, healthier houseplants. We're launching first in Georgia, USA.",A.e5().$4$color$fontSize$fontWeight$height(B.cu,c?16:18,B.p,1.6),B.a2),h,o)
 n=A.hU(h,c?30:50,h)
 m=c?24:40
 l=A.kZ(20)
