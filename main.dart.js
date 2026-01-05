@@ -60700,27 +60700,27 @@ else m=g?500:700
 l=h?20:24
 return A.dO(A.P1(new A.dT(new A.b3(s,r,s,r),A.eB(A.a([q,p,o,n,A.hU(A.cE("We create innovative solutions for homes and offices, making indoor life healthier, more natural, and more enjoyable.",A.e5().$4$color$fontSize$fontWeight$height(A.b2(217,B.dz.gn(0)>>>16&255,B.dz.gn(0)>>>8&255,B.dz.gn(0)&255),l,B.p,1.9),B.a2),k,m)],t.E),B.S,B.M),k),k,k),k,new A.aB(0,1/0,j,1/0),B.vz,k,k,k,k)}}
 A.Ad.prototype={
-U(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g="Reach out to us",f="tal@nevonatech.com",e=t.w,d=A.bI(a,h,e).w.a.a,c=d<768,b=d>=768&&d<1024
-e=A.bI(a,h,e).w
-if(c)s=24
-else s=b?40:80
-r=c?60:100
-if(c)q=32
-else q=b?40:48
+U(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g="Reach out to us",f=t.w,e=A.bI(a,h,f).w.a.a,d=e<768,c=e>=768&&e<1024
+f=A.bI(a,h,f).w
+if(d)s=24
+else s=c?40:80
+r=d?60:100
+if(d)q=32
+else q=c?40:48
 q=A.cE("COMING SOON",A.ic().$4$color$fontSize$fontWeight$height(B.bS,q,B.a8,1.2),B.a2)
-p=A.hU(h,c?20:30,h)
-if(c)o=1/0
-else o=b?600:700
-o=A.hU(A.cE("Soon, you'll be able to order a starter kit and begin your journey to happier, healthier houseplants. We're launching first in Georgia, USA.",A.e5().$4$color$fontSize$fontWeight$height(B.cu,c?16:18,B.p,1.6),B.a2),h,o)
-n=A.hU(h,c?30:50,h)
-m=c?24:40
+p=A.hU(h,d?20:30,h)
+if(d)o=1/0
+else o=c?600:700
+o=A.hU(A.cE("Soon, you'll be able to order a starter kit and begin your journey to happier, healthier houseplants. We're launching first in Georgia, USA.",A.e5().$4$color$fontSize$fontWeight$height(B.cu,d?16:18,B.p,1.6),B.a2),h,o)
+n=A.hU(h,d?30:50,h)
+m=d?24:40
 l=A.kZ(20)
 k=A.a([new A.f4(0,B.dg,A.b2(13,B.l.gn(0)>>>16&255,B.l.gn(0)>>>8&255,B.l.gn(0)&255),B.fY,20)],t.sq)
 j=t.E
-i=c?A.eB(A.a([A.dO(B.jt,h,h,new A.cX(A.b2(B.c.aj(76.5),B.a_.gn(0)>>>16&255,B.a_.gn(0)>>>8&255,B.a_.gn(0)&255),h,h,h,h,h,B.bO),60,h,h,60),B.hC,A.eB(A.a([A.cE(g,A.e5().$3$color$fontSize$fontWeight(B.cu,16,B.I),h),B.uv,A.Sd(h,A.tu(A.cE(f,A.e5().$5$color$decoration$decorationColor$fontSize$fontWeight(B.ay,B.hH,B.ay,18,B.a8),h),B.ey,h,h,h),B.aA,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.Pw(a),h,h,h)],j),B.S,B.M)],j),B.S,B.M):A.Zw(A.a([A.dO(B.jt,h,h,new A.cX(A.b2(B.c.aj(76.5),B.a_.gn(0)>>>16&255,B.a_.gn(0)>>>8&255,B.a_.gn(0)&255),h,h,h,h,h,B.bO),60,h,h,60),B.GR,A.eB(A.a([A.cE(g,A.e5().$3$color$fontSize$fontWeight(B.cu,16,B.I),h),B.uv,A.Sd(h,A.tu(A.cE(f,A.e5().$5$color$decoration$decorationColor$fontSize$fontWeight(B.ay,B.hH,B.ay,20,B.a8),h),B.ey,h,h,h),B.aA,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.Px(a),h,h,h)],j),B.az,B.M)],j),B.S,B.M,B.oI)
+i=d?A.eB(A.a([A.dO(B.jt,h,h,new A.cX(A.b2(B.c.aj(76.5),B.a_.gn(0)>>>16&255,B.a_.gn(0)>>>8&255,B.a_.gn(0)&255),h,h,h,h,h,B.bO),60,h,h,60),B.hC,A.eB(A.a([A.cE(g,A.e5().$3$color$fontSize$fontWeight(B.cu,16,B.I),h),B.uv,A.Sd(h,A.tu(A.cE("contact@nevonatech.com",A.e5().$5$color$decoration$decorationColor$fontSize$fontWeight(B.ay,B.hH,B.ay,18,B.a8),h),B.ey,h,h,h),B.aA,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.Pw(a),h,h,h)],j),B.S,B.M)],j),B.S,B.M):A.Zw(A.a([A.dO(B.jt,h,h,new A.cX(A.b2(B.c.aj(76.5),B.a_.gn(0)>>>16&255,B.a_.gn(0)>>>8&255,B.a_.gn(0)&255),h,h,h,h,h,B.bO),60,h,h,60),B.GR,A.eB(A.a([A.cE(g,A.e5().$3$color$fontSize$fontWeight(B.cu,16,B.I),h),B.uv,A.Sd(h,A.tu(A.cE("tal@nevonatech.com",A.e5().$5$color$decoration$decorationColor$fontSize$fontWeight(B.ay,B.hH,B.ay,20,B.a8),h),B.ey,h,h,h),B.aA,!1,h,h,h,h,h,h,h,h,h,h,h,h,new A.Px(a),h,h,h)],j),B.az,B.M)],j),B.S,B.M,B.oI)
 m=A.dO(i,h,h,new A.cX(B.j,h,h,l,k,h,B.ap),h,h,new A.b3(m,m,m,m),h)
-l=A.hU(h,c?40:60,h)
-return A.dO(new A.dT(new A.b3(s,r,s,r),A.eB(A.a([q,p,o,n,m,l,A.cE("\xa9 2026 Nevona Tech. All rights reserved.",A.e5().$2$color$fontSize(B.ay,c?12:14),B.a2)],j),B.S,B.M),h),B.bj,new A.aB(0,1/0,e.a.b*0.6,1/0),h,h,h,h,h)}}
+l=A.hU(h,d?40:60,h)
+return A.dO(new A.dT(new A.b3(s,r,s,r),A.eB(A.a([q,p,o,n,m,l,A.cE("\xa9 2026 Nevona Tech. All rights reserved.",A.e5().$2$color$fontSize(B.ay,d?12:14),B.a2)],j),B.S,B.M),h),B.bj,new A.aB(0,1/0,f.a.b*0.6,1/0),h,h,h,h,h)}}
 A.Pw.prototype={
 $0(){A.aht(this.a)},
 $S:0}
